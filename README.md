@@ -27,6 +27,8 @@ We follow the error handling that was proposed in the [JSON API](http://jsonapi.
 
 ### Pagination
 
+### API Versioning and Semantic Versioning
+
 ### Always use HTTPS
 
 ### Use UTF-8
